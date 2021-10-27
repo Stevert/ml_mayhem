@@ -1,0 +1,6 @@
+mae
+rmse  1LSTM-Dense 50-57  2043
+rmse  BLSTM-2lstm-2Dense 64-32-32-128-57  1908.384
+rmse                                      1630.396  (100 Epochs)
+rmse                                      1551.541  (128 batch)
+rmse                     128              1537.667
